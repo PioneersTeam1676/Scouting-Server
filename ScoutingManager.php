@@ -8,7 +8,7 @@ class ScoutingManager {
 
 	/*VARIABLES START HERE*/
 	
-	function __construct(argument) {
+	function __construct() {
 		# code...
 	}
 
