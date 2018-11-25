@@ -1,0 +1,13 @@
+Scouting Manager:
+login
+logout
+submit
+
+should be able to have a
+
+
+User class?
+
+
+templating system possibly?
+
