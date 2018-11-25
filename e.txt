@@ -2,12 +2,16 @@ Scouting Manager:
 login
 logout
 submit
+get data
 
-should be able to have a
+should be able to have an admin system?
 
 
 User class?
 
 
 templating system possibly?
+basic templates:
+login/signup
+
 
